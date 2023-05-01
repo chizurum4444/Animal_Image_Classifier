@@ -2,7 +2,7 @@
 
 - I implemented a Deep CNN model to classify images of dogs and cats.
 
-# Why Classify Dogs and Cats?
+# Why Classify Cats and Dogs ?
 
 - There could be many reasons why you would want a model to do this, but the reason stated here revolves around the utility for querying in search engines for pet breeds and what stores have them.
 
