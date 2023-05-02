@@ -1,6 +1,6 @@
 # Animal Classifier
 
-- I implemented a Deep CNN model to classify images of dogs and cats.
+- Built a Deep CNN model for the classification of dog and cat images.
 
 # Why Classify Cats and Dogs ?
 
